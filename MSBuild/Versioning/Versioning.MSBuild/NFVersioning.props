@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <NF_VERSIONING_DIRECTORY Condition=" '$(NF_VERSIONING_DIRECTORY)' == '' ">$(MSBuildThisFileDirectory)</NF_VERSIONING_DIRECTORY>
+    <NF_VERSIONING_BUILDTOOL Condition=" '$(NF_VERSIONING_BUILDTOOL)' == '' ">$(NF_VERSIONING_DIRECTORY)..\tools\nanoFramework.Versioning.dll</NF_VERSIONING_BUILDTOOL>
+  </PropertyGroup>
+</Project>

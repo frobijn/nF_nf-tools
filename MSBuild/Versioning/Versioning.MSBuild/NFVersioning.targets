@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <UsingTask TaskName="NF_VerifyNuGetPackageVersion" AssemblyFile="$(NF_VERSIONING_BUILDTOOL)"/>
+  <UsingTask TaskName="NF_VerifyFirmwarePackageConsistency" AssemblyFile="$(NF_VERSIONING_BUILDTOOL)"/>
+
+  <Target Name="NF_VERSIONING_VerifyNuGetPackageVersion" BeforeTargets="Build">
+    <NF_VerifyNuGetPackageVersion
+        ProjectFilePath="$(MSBuildProjectFullPath)"
+        />
+  </Target>
+
+  <Target Name="NF_VERSIONING_VerifyFirmwarePackageConsistency" AfterTargets="Build">
+    <NF_VerifyFirmwarePackageConsistency
+        ProjectDirectory="$(MSBuildProjectDirectory)"
+        CacheFilesDirectory="$(IntermediateOutputPath)nF"
+        AssemblyFilePath="$(OutputPath)$(AssemblyName).pe"
+        ReferencedAssemblies="@(ReferencePath)"
+        />
+  </Target>
+
+</Project>

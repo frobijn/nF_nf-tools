@@ -1,0 +1,11 @@
+﻿{
+    "NuGetPackageList": "Archive/NuGetPackageList.txt",
+    "FirmwareArchivePath": "Archive",
+    "DeviceTypeTargets": {
+        "Primary devices": [ "ESP32_S3_ALL", "ESP32_S3_BLE" ]
+    },
+    "DeviceTypes": [
+        "Primary devices",
+        "Virtual nanoDevice"
+    ]
+}

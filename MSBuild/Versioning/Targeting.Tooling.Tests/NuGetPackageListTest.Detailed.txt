@@ -1,0 +1,2076 @@
+WARNING: 'NuGet list' is deprecated. Use 'NuGet search' instead.
+NuGet Version: 6.11.0.119
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/$metadata
+  OK https://www.nuget.org/api/v2/$metadata 120ms
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=0&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=0&$top=30&semVerLevel=2.0.0 115ms
+Eclo.nanoFramework.SIM800H
+ 1.0.3.2
+ This package includes the Eclo.nanoFramework.SIM800H assembly for nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/Eclo.nanoFramework.SIM800H/1.0.3.2/license
+
+AMQPNetMicro.nanoFramework
+ 2.4.11.3
+ This is a compact version of AMQP.Net Lite for .Net nanoFramework on memory/space constrained devices.
+ License url: https://www.nuget.org/packages/AMQPNetMicro.nanoFramework/2.4.11.3/license
+
+amaletski.nanoFramework.MSBuildTasks
+ 0.1.4
+ This package offers a specialized MSBuild task designed to effortlessly generate .resx file and embed .resources into t
+ he target assembly.
+ License url: https://www.nuget.org/packages/amaletski.nanoFramework.MSBuildTasks/0.1.4/license
+
+amaletski.nanoFramework.SourceGenerators
+ 0.1.3
+ This package includes a source generator that calculates binary resources metadata from a .resx file and generates a pr
+ ovider class to return this metadata.
+ License url: https://www.nuget.org/packages/amaletski.nanoFramework.SourceGenerators/0.1.3/license
+
+AMQPNetLite.nanoFramework
+ 2.4.11.3
+ This is a lightweight AMQP library for .Net nanoFramework. A more compact version
+ is available in the AMQPNetMicro.nanoFramework package.
+ License url: https://www.nuget.org/packages/AMQPNetLite.nanoFramework/2.4.11.3/license
+
+Bytewizer.NanoCLR.Assertions
+ 2.1.15
+ Testing assertions library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Assertions/2.1.15/license
+
+Bytewizer.NanoCLR.Compression
+ 2.1.15
+ Deflate compression library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Compression/2.1.15/license
+
+Bytewizer.NanoCLR.Compression.GZip
+ 2.1.15
+ GZip compression library built for .NET nanoframework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Compression.GZip/2.1.15/license
+
+Bytewizer.NanoCLR.Compression.Zip
+ 2.1.15
+ Zip compression library built for .NET nanoframework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Compression.Zip/2.1.15/license
+
+Bytewizer.NanoCLR.Core
+ 2.1.15
+ Core runtime library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Core/2.1.15/license
+
+Bytewizer.NanoCLR.DependencyInjection
+ 2.1.15
+ Dependency injection library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.DependencyInjection/2.1.15/license
+
+Bytewizer.NanoCLR.DependencyInjection.Abstractions
+ 2.1.15
+ Dependency injection abstraction library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.DependencyInjection.Abstractions/2.1.15/license
+
+Bytewizer.NanoCLR.Drivers.Blues.Notecard
+ 2.1.5
+ Blues Wireless driver built for NanoCLR IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Drivers.Blues.Notecard/2.1.5/license
+
+Bytewizer.NanoCLR.Hosting
+ 2.1.11
+ Hosting library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Hosting/2.1.11/license
+
+Bytewizer.NanoCLR.Logging
+ 2.1.15
+ Logging library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Logging/2.1.15/license
+
+Bytewizer.NanoCLR.Logging.Abstractions
+ 2.1.15
+ Logging abstraction library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Logging.Abstractions/2.1.15/license
+
+Bytewizer.NanoCLR.Logging.Debug
+ 2.1.15
+ Debug logging library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Logging.Debug/2.1.15/license
+
+Bytewizer.NanoCLR.Logging.Extensions
+ 2.1.15
+ Logging convenience extention library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Logging.Extensions/2.1.15/license
+
+Bytewizer.NanoCLR.Numerics
+ 2.1.15
+ Numerics library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Numerics/2.1.15/license
+
+Bytewizer.NanoCLR.Pipeline
+ 2.1.15
+ Middleware pipeline library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Pipeline/2.1.15/license
+
+Bytewizer.NanoCLR.Stopwatch
+ 2.1.15
+ Time measurement library built for .NET nanoFramework IoT devices.
+ License url: https://www.nuget.org/packages/Bytewizer.NanoCLR.Stopwatch/2.1.15/license
+
+Caliban.Nano
+ 1.7.0
+ A very tiny, but very powerful MVVM framework
+ License url: https://www.nuget.org/packages/Caliban.Nano/1.7.0/license
+
+ctre.canivore
+ 0.0.4
+ CTR Electronics provided package for using NanoFramework with CANivore
+
+CCSWE.nanoFramework.Collections.Concurrent
+ 1.0.35
+ Simple thread-safe collections.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Collections.Concurrent/1.0.35/license
+
+CCSWE.nanoFramework.Configuration
+ 1.0.65
+ Manage configuration data for your application.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Configuration/1.0.65/license
+
+CCSWE.nanoFramework.Core
+ 1.0.33
+ Shared utility classes.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Core/1.0.33/license
+
+CCSWE.nanoFramework.DhcpServer
+ 1.0.33
+ A simple DHCP server for nanoFramework.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.DhcpServer/1.0.33/license
+
+CCSWE.nanoFramework.FileStorage
+ 0.2.39
+ An interface for file storage access in .NET nanoFramework.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.FileStorage/0.2.39/license
+
+CCSWE.nanoFramework.Hosting
+ 0.2.59
+ Hosting and startup infrastructures for applications.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Hosting/0.2.59/license
+
+CCSWE.nanoFramework.Logging
+ 0.1.34
+ Logging infrastructure default implementation for Microsoft.Extensions.Logging.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Logging/0.1.34/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=30&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=30&$top=30&semVerLevel=2.0.0 124ms
+CCSWE.nanoFramework.Math
+ 0.1.41
+ A fast, but not necessarily IEEE 754:2019 compliant, implementation of System.Math for .NET nanoFramework.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Math/0.1.41/license
+
+CCSWE.nanoFramework.Mediator
+ 1.0.65
+ A simple asynchronous mediator implementation for nanoFramework.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Mediator/1.0.65/license
+
+CCSWE.nanoFramework.NeoPixel
+ 1.0.59
+ A fast ESP32 RMT library for controlling LED chipsets (NeoPixel, WS2812B, etc.).
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.NeoPixel/1.0.59/license
+
+CCSWE.nanoFramework.Threading
+ 1.0.57
+ A collection of utilities to simplify thread usage.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Threading/1.0.57/license
+
+CCSWE.nanoFramework.Threading.TestFramework
+ 1.0.57
+ A helper for managing ThreadPool during unit tests.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.Threading.TestFramework/1.0.57/license
+
+CCSWE.nanoFramework.WebServer
+ 0.1.98
+ A simple asynchronous web server implementation for nanoFramework.
+ License url: https://www.nuget.org/packages/CCSWE.nanoFramework.WebServer/0.1.98/license
+
+Chakra.NanoDb
+ 1.0.15
+ Chakra framework extensions to work with NanoDb
+
+Com.SkyworksInc.NanoFramework.Devices.I2c
+ 1.0.134
+ This package includes the Skywork Inc implementation of I2C for .NET nanoFramework C# projects. This package requires a
+ target with Com.SkyworksInc.NanoFramework.Devices.I2c v (checksum 0x913E3D1E).
+ License url: https://www.nuget.org/packages/Com.SkyworksInc.NanoFramework.Devices.I2c/1.0.134/license
+
+Com.SkyworksInc.NanoFramework.Devices.Spi
+ 1.0.138
+ This package includes the Skywork Inc implementation of SPI for .NET nanoFramework C# projects. This package requires a
+ target with Com.SkyworksInc.NanoFramework.Devices.Spi v100.0.0.9 (checksum 0xF287AE32).
+ License url: https://www.nuget.org/packages/Com.SkyworksInc.NanoFramework.Devices.Spi/1.0.138/license
+
+DevBot9.NanoFramework.Homie
+ 0.11.1
+ Homie implementation for nanoFramework.
+ License url: https://www.nuget.org/packages/DevBot9.NanoFramework.Homie/0.11.1/license
+
+DevBot9.NanoFramework.Homie.Utilities
+ 0.11.1
+ Homie implementation for nanoFramework.
+ License url: https://www.nuget.org/packages/DevBot9.NanoFramework.Homie.Utilities/0.11.1/license
+
+Idaax.nanoFramework.CoAPSharp
+ 1.0.0
+ CoAPSharp library for nanoFramework based microcontroller projects
+ License url: https://www.nuget.org/packages/Idaax.nanoFramework.CoAPSharp/1.0.0/license
+
+InfluxData.Net_NS
+ 1.0.1
+ InfluxData.Net is a fast, portable .NET library to access the REST API of an InfluxDB database and Kapacitor processing
+ tool.
+
+ The library supports .Net Framework v4.6.1 and .Net Standard v2.0.
+ This library is just a Fork of original driver with added support of micro and nano seconds.
+ License url: https://github.com/ummarbhutta/InfluxData.Net/blob/master/LICENSE
+
+FanieReynders.Templates.NetNano
+ 1.0.0
+ Create an IoT app for small IoT devices like the ESP32 using .NET nanoFramework
+
+IronSoftware.System.Drawing
+ 2024.9.11
+ IronSoftware.System.Drawing - The C# Image Library
+
+ A universally compatible Bitmap format for .NET 8, .NET 7, .NET 6, and .NET 5, .NET Core on Windows, macOS, Linux, Dock
+ er, AWS, Azure, NanoServer, IIS, Mobile, Xamarin, iOS, Android, and Google Compute.
+
+ Works seamlessly with popular Image and Bitmap formats such as System.Drawing.Bitmap, SkiaSharp, SixLabors.ImageSharp,
+ Microsoft.Maui.Graphics.
+
+ Implicit casting means that using this class to input and output Bitmap and image types from public API's gives full co
+ mpatibility to all image type fully supported by Microsoft.
+
+ Key library features include:
+ * AnyBitmap: A universally compatible Bitmap class. Implicit casting between System.Drawing.Bitmap, System.Drawing.Imag
+ e, SkiaSharp.SKBitmap, SkiaSharp.SKImage, SixLabors.ImageSharp, Microsoft.Maui.Graphics.Platform.PlatformImage to IronS
+ oftware.Drawing.AnyBitmap
+ * Color: A universally compatible Color class. Implicit casting between System.Drawing.Color, SkiaSharp.SKColor, SixLab
+ ors.ImageSharp.Color, SixLabors.ImageSharp.PixelFormats to IronSoftware.Drawing.Color
+ * Rectangle: A universally compatible Rectangle class. Implicit casting between System.Drawing.Rectangle, SkiaSharp.SKR
+ ect, SkiaSharp.SKRectI, SixLabors.ImageSharp.Rectangle to IronSoftware.Drawing.Rectangle
+ * Font: A universally compatible Font class. Implicit casting between System.Drawing.Font, SkiaSharp.SKFont, SixLabors.
+ Fonts.Font to IronSoftware.Drawing.Font
+ * Point: A universally compatible Point class. Implicit casting between System.Drawing.Point, SixLabors.ImageSharp.Poin
+ t, SkiaSharp.SKPointI to IronSoftware.Drawing.Point
+ * Size: A universally compatible Size class. Implicit casting between System.Drawing.Size, SixLabors.ImageSharp.Size, S
+ kiaSharp.SKSizeI to IronSoftware.Drawing.Size
+
+ IronSoftware.Drawing can be used within C#, VB.NET, F#, ASP.NET projects, MVC, Web Services, Console & Desktop Applicat
+ ions.
+
+ Supports:
+ * .NET 8
+ * .NET 7
+ * .NET 6
+ * .NET 5
+ * .NET Core 2.0 +
+ * .NET Framework 4.6.2 +
+
+ For general support and technical inquiries, please email us at: support@ironsoftware.com
+ License url: https://www.nuget.org/packages/IronSoftware.System.Drawing/2024.9.11/license
+
+Json.NetMF
+ 1.3.1
+ JSON Serializer and Deserializer library for the .NET  Micro Framework.
+ License url: https://github.com/nanoFramework/Json.NetMF/blob/master/LICENSE
+
+LegoInfrared.nanoFramework
+ 0.9.0
+ This package includes the nanoFramework Lego Infrared to control Power Functions RC assembly for .NET nanoFramework C#
+ projects.
+ License url: https://www.nuget.org/packages/LegoInfrared.nanoFramework/0.9.0/license
+
+LSymds.EntityFrameworkCore.ValueGenerators.NanoId
+ 1.0.0
+ A NanoId value generator for Entity Framework Core.
+ License url: https://github.com/lsymds/EntityFrameworkCore.ValueGenerators
+
+DevBot9.NanoFramework.M2Mqtt
+ 4.6.1
+ M2Mqtt is a MQTT client available for .NET nanoFramework for M2M communication. This fork uses stable dependencies inst
+ ead of preview ones.
+ License url: https://www.nuget.org/packages/DevBot9.NanoFramework.M2Mqtt/4.6.1/license
+
+m2qtt.nanoFramework
+ 1.0.4
+ Mqtt client for nanoFramework
+ License url: https://github.com/kmrzyglod/paho.mqtt.m2mqtt/blob/nanoframework/LICENSE
+
+MakoIoT.Device
+ 1.0.61.29719
+ MAKO-IoT device composition library
+ License url: https://www.nuget.org/packages/MakoIoT.Device/1.0.61.29719/license
+
+MakoIoT.Device.Displays.Led
+ 1.0.29.39828
+ LED library for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Displays.Led/1.0.29.39828/license
+
+MakoIoT.Device.Platform.Interface
+ 1.0.12.12799
+ MAKO-IoT Platform interface library
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Platform.Interface/1.0.12.12799/license
+
+MakoIoT.Device.Platform.LocalConfig
+ 1.0.68.59582
+ MAKO-IoT Platform local configuration library. On-device web server, WiFi AP
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Platform.LocalConfig/1.0.68.59582/license
+
+MakoIoT.Device.PlatformClient
+ 1.0.37.4832
+ MAKO-IoT PLatform device client library
+ License url: https://www.nuget.org/packages/MakoIoT.Device.PlatformClient/1.0.37.4832/license
+
+MakoIoT.Device.SecureClient
+ 1.0.5.23918
+ HttpClient provider, loads certificate from file (MAKO-IoT)
+ License url: https://www.nuget.org/packages/MakoIoT.Device.SecureClient/1.0.5.23918/license
+
+MakoIoT.Device.Services.AzureIotHub
+ 1.0.50.33594
+ AzureIoTHub bus provider for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.AzureIotHub/1.0.50.33594/license
+
+MakoIoT.Device.Services.Configuration
+ 1.0.53.22614
+ MAKO-IoT configuration library.
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Configuration/1.0.53.22614/license
+
+MakoIoT.Device.Services.Configuration.Metadata
+ 1.0.47.39384
+ Configuration metadata tools for MAKO-IoT device config API and app.
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Configuration.Metadata/1.0.47.39384/license
+
+MakoIoT.Device.Services.ConfigurationApi
+ 1.0.165.49339
+ REST API for configuration with MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.ConfigurationApi/1.0.165.49339/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=60&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=60&$top=30&semVerLevel=2.0.0 114ms
+MakoIoT.Device.Services.ConfigurationManager
+ 1.0.117.33181
+ Configuration mode manager for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.ConfigurationManager/1.0.117.33181/license
+
+MakoIoT.Device.Services.DataProviders
+ 1.0.44.31154
+ Data providers library for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.DataProviders/1.0.44.31154/license
+
+MakoIoT.Device.Services.ESP32.DeepSleepDataProviders
+ 1.0.25.1115
+ ESP32 DeepSleep data provider for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.ESP32.DeepSleepDataProviders/1.0.25.1115/license
+
+MakoIoT.Device.Services.FileStorage
+ 1.0.70.37886
+ MAKO-IoT file storage NVS Flash
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.FileStorage/1.0.70.37886/license
+
+MakoIoT.Device.Services.Interface
+ 1.0.47.44904
+ Interfaces for MAKO-IoT services (.NET nanoFramework C# projects).
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Interface/1.0.47.44904/license
+
+MakoIoT.Device.Services.Logging
+ 1.0.51.55985
+ MAKO-IoT logging library
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Logging/1.0.51.55985/license
+
+MakoIoT.Device.Services.Logging.Sinks.Elasticsearch
+ 1.0.15.30462
+ MAKO-IoT Platform local configuration library. On-device web server, WiFi AP
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Logging.Sinks.Elasticsearch/1.0.15.30462/license
+
+MakoIoT.Device.Services.Logging.Sinks.SdCard
+ 1.0.24.65332
+ MAKO-IoT Platform local configuration library. On-device web server, WiFi AP
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Logging.Sinks.SdCard/1.0.24.65332/license
+
+MakoIoT.Device.Services.Logging.Storage
+ 1.0.49.35969
+ Logging to flash storage and logs upload to Elasticsearch for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Logging.Storage/1.0.49.35969/license
+
+MakoIoT.Device.Services.Mediator
+ 1.0.49.59837
+ MAKO-IoT simple mediator library
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Mediator/1.0.49.59837/license
+
+MakoIoT.Device.Services.Messaging
+ 1.0.52.58630
+ Message bus for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Messaging/1.0.52.58630/license
+
+MakoIoT.Device.Services.Mqtt
+ 1.0.80.11411
+ MQTT library for message bus of MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Mqtt/1.0.80.11411/license
+
+MakoIoT.Device.Services.Scheduler
+ 1.0.50.19720
+ Task scheduler for MAKO-IoT. Executes given logic at defined intervals.
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Scheduler/1.0.50.19720/license
+
+MakoIoT.Device.Services.Server
+ 1.0.68.64733
+ Simple WebServer for .NET nanoFramework C# projects. Based on nanoFramework.WebServer by Laurent Ellerbach and contribu
+ tors
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.Server/1.0.68.64733/license
+
+MakoIoT.Device.Services.WiFi
+ 1.0.66.65363
+ WiFi connectivity library for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.WiFi/1.0.66.65363/license
+
+MakoIoT.Device.Services.WiFi.AP
+ 1.0.78.46135
+ WiFi Access Point library for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Services.WiFi.AP/1.0.78.46135/license
+
+MakoIoT.Device.Utilities.ICalParser
+ 1.0.35.37969
+ This package includes the minimal iCalendar parser (VEVENT only) for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Utilities.ICalParser/1.0.35.37969/license
+
+MakoIoT.Device.Utilities.Invoker
+ 1.0.35.30819
+ Simple transient fault handling (re-try) library for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Utilities.Invoker/1.0.35.30819/license
+
+MakoIoT.Device.Utilities.String
+ 1.0.36.61889
+ String extensions for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Utilities.String/1.0.36.61889/license
+
+MakoIoT.Device.Utilities.TimeZones
+ 1.0.29.38441
+ Time zones and local time support for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/MakoIoT.Device.Utilities.TimeZones/1.0.29.38441/license
+
+MakoIoT.Device.WebServer
+ 1.0.5.59659
+ On-device web server base library for MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Device.WebServer/1.0.5.59659/license
+
+MakoIoT.Messages
+ 1.0.18.32679
+ Base messages contracts of MAKO-IoT
+ License url: https://www.nuget.org/packages/MakoIoT.Messages/1.0.18.32679/license
+
+mixin-js
+ 0.1.5
+ Mixin.js is the 'reuse more', aspect-oriented Javascript nano-framework. Stay DRY...mixin!
+ License url: https://github.com/kmalakoff/mixin/blob/master/LICENSE
+
+MvvmNano.Core
+ 3.2.0
+ The small and smart MVVM framework made with ? for Xamarin.Forms.
+ License url: https://github.com/aspnetde/MvvmNano/blob/master/LICENSE
+
+MvvmNano.Forms
+ 3.2.0
+ The small and smart MVVM framework made with ? for Xamarin.Forms.
+ License url: https://github.com/aspnetde/MvvmNano/blob/master/LICENSE
+
+MvvmNano.Ninject
+ 3.1.0
+ The small and smart MVVM framework made with ? for Xamarin.Forms.
+ License url: https://github.com/aspnetde/MvvmNano/blob/master/LICENSE
+
+Nano
+ 1.0.0
+ Nano is a micro web framework for building web-based HTTP services and websites for .NET.
+ License url: https://github.com/AmbitEnergyLabs/Nano/blob/master/LICENSE
+
+nanoclr
+ 1.0.650
+ .NET nanoFramework CLR as a .NET tool. Allows runing nanoCLR as a virtual device.
+ License url: https://www.nuget.org/packages/nanoclr/1.0.650/license
+
+nanodu
+ 1.0.350
+ .NET tool to update nanoFramework dependencies in class libraries. This is meant to be used in nanoFramework CI-CD pipe
+ lines.
+ License url: https://www.nuget.org/packages/nanodu/1.0.350/license
+
+nanoff
+ 2.5.90
+ .NET nanoFirmwareFlasher tool to flash firmware images to target devices.
+ License url: https://www.nuget.org/packages/nanoff/2.5.90/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=90&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=90&$top=30&semVerLevel=2.0.0 168ms
+nanoFirmwareFlasher
+ 1.15.1
+ nanoFirmwareFlasher
+
+nanoFramework.Tools.Debugger.UWP
+ 1.0.0
+ This UWP library provides a debug client for nanoFramework devices using USB or Serial connection to a board.
+ License url: http://opensource.org/licenses/Apache-2.0
+
+nanoFramework.AtomLite
+ 1.1.238
+ This package includes the nanoFramework.AtomLite assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.AtomLite/1.1.238/license
+
+nanoFramework.AtomMatrix
+ 1.1.238
+ This package includes the nanoFramework.AtomMatrix assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.AtomMatrix/1.1.238/license
+
+nanoFramework.Aws.IoTCore.Devices
+ 1.1.116
+ This package includes the .NET nanoFramework.Aws.IoTCore.Devices assembly for nanoFramework C# projects.
+ This is an SDK for Aws IoTCore.
+ License url: https://www.nuget.org/packages/nanoFramework.Aws.IoTCore.Devices/1.1.116/license
+
+nanoFramework.Azure.Devices.Client
+ 1.2.53
+ This package includes the .NET nanoFramework.Azure.Devices.Client assembly for .NET nanoFramework C# projects.
+ This is an SDK for Azure IoT Hub using MQTT broker.
+ License url: https://www.nuget.org/packages/nanoFramework.Azure.Devices.Client/1.2.53/license
+
+nanoFramework.Azure.Devices.Client.FullyManaged
+ 1.2.53
+ This package includes the .NET nanoFramework.Azure.Devices.Client.FullyManaged assembly for .NET nanoFramework C# proje
+ cts.
+ This is an SDK for Azure IoT Hub using a MQTT broker interface. This is Independent of hardware typically used with a m
+ odem.
+ Use the nanoFrameowrk.Azure.Devices.Client if you want to use native wifi and MQTT broker.
+ License url: https://www.nuget.org/packages/nanoFramework.Azure.Devices.Client.FullyManaged/1.2.53/license
+
+nanoFramework.Benchmark
+ 1.0.75
+ This package includes the nanoFramework.Benchmark assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Benchmark/1.0.75/license
+
+nanoFramework.Bluetooth.Hid
+ 1.0.37
+ This package includes the .NET nanoFramework.Bluetooth.Hid assembly for .NET nanoFramework C# projects.
+ This allows to have a device seen as an HID device over Bluetooth.
+ License url: https://www.nuget.org/packages/nanoFramework.Bluetooth.Hid/1.0.37/license
+
+nanoFramework.CoreLibrary
+ 1.15.5
+ This package includes the CoreLibrary assembly for .NET nanoFramework C# projects.
+ This package requires a target with mscorlib v100.5.0.19 (checksum 0x445C7AF9).
+ In case you don't need the System.Reflection API there is another NuGet package without this API.
+ License url: https://www.nuget.org/packages/nanoFramework.CoreLibrary/1.15.5/license
+
+nanoFramework.CoreLibrary.NoReflection
+ 1.15.5
+ This package includes the CoreLibrary assembly for .NET nanoFramework C# projects **WITHOUT** the System.Reflection API
+ .
+ This package requires a target with mscorlib v100.5.0.19 (checksum 0xE3A4B52F).
+ There is another version that includes the System.Reflection API.
+ License url: https://www.nuget.org/packages/nanoFramework.CoreLibrary.NoReflection/1.15.5/license
+
+nanoFramework.DependencyInjection
+ 1.1.3
+ This package includes the nanoFramework.DependencyInjection assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.DependencyInjection/1.1.3/license
+
+nanoFramework.Device.Bluetooth
+ 1.1.75
+ This package includes the nanoFramework.Device.Bluetooth assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Device.Bluetooth v100.0.5.0 (checksum 0xAA4B0676).
+ License url: https://www.nuget.org/packages/nanoFramework.Device.Bluetooth/1.1.75/license
+
+nanoFramework.Device.Can
+ 1.3.12
+ This package includes the nanoFramework.Device.Can assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Device.Can v100.0.5.1 (checksum 0x5B569036).
+ License url: https://www.nuget.org/packages/nanoFramework.Device.Can/1.3.12/license
+
+nanoFramework.Device.OneWire
+ 1.4.22
+ This package includes the nanoFramework.Device.OneWire assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Device.OneWire v100.0.4.0 (checksum 0xB95C43B4).
+ License url: https://www.nuget.org/packages/nanoFramework.Device.OneWire/1.4.22/license
+
+nanoFramework.Devices.Can
+ 1.2.4
+ This package includes the nanoFramework.Devices.Can assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Devices.Can v100.0.5.0 (checksum 0xF319D40E).
+ License url: https://www.nuget.org/packages/nanoFramework.Devices.Can/1.2.4/license
+
+nanoFramework.Devices.OneWire
+ 1.3.3
+ This package includes the nanoFramework.Devices.OneWire assembly for nanoFramework C# projects.
+ This package requires a target with nanoFramework.Devices.OneWire v100.0.3.4 (checksum 0xA5C172BD).
+ License url: https://www.nuget.org/packages/nanoFramework.Devices.OneWire/1.3.3/license
+
+nanoFramework.Extensions.Stm32.GpioController
+ 1.13.0
+ Extensions for Windows.Devices.Gpio.GpioController class enhacing support for STM32 MCUs in .NET nanoFramework.
+ License url: https://github.com/nanoframework/nf-Community-Contributions/blob/master/extensions/stm32/gpiocontroller/LI
+ CENSE
+
+nanoFramework.Fire
+ 1.1.238
+ This package includes the nanoFramework.Fire assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Fire/1.1.238/license
+
+nanoFramework.GiantGecko.Adc
+ 1.0.36
+ This package includes the nanoFramework.GiantGecko.Adc assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.GiantGecko.Adc v100.1.0.0 (checksum 0x0516D85F).
+ License url: https://www.nuget.org/packages/nanoFramework.GiantGecko.Adc/1.0.36/license
+
+nanoFramework.Graphics
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects..
+ This package requires a target with System.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics/1.2.15/license
+
+nanoFramework.Graphics.Core
+ 1.2.15
+ This package includes the nanoFramework.Graphics.Core assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.Core/1.2.15/license
+
+nanoFramework.Graphics.Gc9A01
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver Gc9A01. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.Gc9A01/1.2.15/license
+
+nanoFramework.Graphics.Ili9341
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver Ili9341. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.Ili9341/1.2.15/license
+
+nanoFramework.Graphics.Ili9342
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver Ili9342. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.Ili9342/1.2.15/license
+
+nanoFramework.Graphics.Otm8009A
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver Otm8009A. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.Otm8009A/1.2.15/license
+
+nanoFramework.Graphics.Ssd1306
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver Ssd1306. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.Ssd1306/1.2.15/license
+
+nanoFramework.Graphics.Ssd1331
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver Ssd1331. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.Ssd1331/1.2.15/license
+
+nanoFramework.Graphics.St7735
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver St7735. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.St7735/1.2.15/license
+
+nanoFramework.Graphics.St7789
+ 1.2.15
+ This package includes the nanoFramework.Graphics assembly for .NET nanoFramework C# projects.
+ It does embed a managed driver St7789. It is aimed to be used for images built with Generic Graphics driver.
+ This package requires a target with nanoFramework.Graphics v (checksum 0x6A3F90DD).
+ License url: https://www.nuget.org/packages/nanoFramework.Graphics.St7789/1.2.15/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=120&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=120&$top=30&semVerLevel=2.0.0 125ms
+nanoFramework.Hardware.Drivers.Keypad-PCF8574
+ 1.0.0
+ Keypad driver for .NET nanoFramework using a PCF8574.
+ License url: https://www.nuget.org/packages/nanoFramework.Hardware.Drivers.Keypad-PCF8574/1.0.0/license
+
+nanoFramework.Hardware.Esp32
+ 1.6.19
+ This package includes the nanoFramework.Hardware.Esp32 assembly for .NET nanoFramework C# projects.
+ The nanoFramework.Hardware.Esp32 assembly contains functions specific to the ESP32 device.
+ This package requires a target with nanoFramework.Hardware.Esp32 v100.0.10.0 (checksum 0x6A20A689).
+ License url: https://www.nuget.org/packages/nanoFramework.Hardware.Esp32/1.6.19/license
+
+nanoFramework.Hardware.Esp32.Rmt
+ 2.0.13
+ This package includes the nanoFramework.Hardware.Esp32.Rmt assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Hardware.Esp32.Rmt v100.0.5.0 (checksum 0xB97BFDE3).
+ License url: https://www.nuget.org/packages/nanoFramework.Hardware.Esp32.Rmt/2.0.13/license
+
+nanoFramework.Hardware.GiantGecko
+ 1.1.3
+ This package includes the nanoFramework.Hardware.GiantGecko assembly for nanoFramework C# projects.
+ This package requires a target with nanoFramework.Hardware.GiantGecko v100.0.0.2 (checksum 0xF42EF338).
+ License url: https://www.nuget.org/packages/nanoFramework.Hardware.GiantGecko/1.1.3/license
+
+nanoFramework.Hardware.Stm32
+ 1.10.11
+ This package includes the nanoFramework.Hardware.Stm32 assembly for nanoFramework C# projects.
+ This package requires a target with nanoFramework.Hardware.Stm32 v100.0.5.1 (checksum 0xFE16F347).
+ License url: https://www.nuget.org/packages/nanoFramework.Hardware.Stm32/1.10.11/license
+
+nanoFramework.Hardware.TI
+ 1.1.14
+ This package includes the nanoFramework.Hardware.TI assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Hardware.TI v100.0.0.3 (checksum 0x8A9130A3).
+ License url: https://www.nuget.org/packages/nanoFramework.Hardware.TI/1.1.14/license
+
+nanoFramework.Hosting
+ 1.0.40
+ This package includes the nanoframework.Hosting assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Hosting/1.0.40/license
+
+nanoFramework.Iot.Device.A4988
+ 1.1.639
+ This package includes the .NET IoT Core binding Iot.Device.Uln2003 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.A4988/1.1.639/license
+
+nanoFramework.Iot.Device.AD5328
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.AD5328 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.AD5328/1.2.639/license
+
+nanoFramework.Iot.Device.Ads1115
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Ads1115 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ads1115/1.2.639/license
+
+nanoFramework.Iot.Device.Adxl343
+ 1.0.380
+ This package includes the .NET IoT Core binding Iot.Device.Adxl343 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Adxl343/1.0.380/license
+
+nanoFramework.Iot.Device.Adxl345
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Adxl345 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Adxl345/1.2.631/license
+
+nanoFramework.Iot.Device.Adxl357
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Adxl357 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Adxl357/1.2.639/license
+
+nanoFramework.Iot.Device.Ags01db
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Ags01db for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ags01db/1.2.639/license
+
+nanoFramework.Iot.Device.Ahtxx
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Ahtxx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ahtxx/1.2.639/license
+
+nanoFramework.Iot.Device.Ak8963
+ 1.2.631
+ This package includes the .NET IoT Core binding Ak8963 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ak8963/1.2.631/license
+
+nanoFramework.Iot.Device.Am2320
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Am2320 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Am2320/1.2.639/license
+
+nanoFramework.Iot.Device.Amg88xx
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Amg88xx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Amg88xx/1.2.639/license
+
+nanoFramework.Iot.Device.Apa102
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Apa102 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Apa102/1.2.639/license
+
+nanoFramework.Iot.Device.At24C128C
+ 1.2.203
+ This package includes the .NET IoT Core binding AT24C128C for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.At24C128C/1.2.203/license
+
+nanoFramework.Iot.Device.At24cxx
+ 1.0.408
+ This package includes the .NET IoT Core binding Iot.Device.At24cxx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.At24cxx/1.0.408/license
+
+nanoFramework.Iot.Device.AtModem
+ 1.0.246
+ This package includes the .NET nanoFramework binding Iot.Device.AtModem for .NET nanoFramework C# projects.
+ This nuget allows to use AT Modem for SMS, calls, network, internal storage, HTTP, MQTT for some modems.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.AtModem/1.0.246/license
+
+nanoFramework.Iot.Device.AtomQrCode
+ 1.1.631
+ This package includes the .NET IoT Core binding form M5Stack ATOM QR Code for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.AtomQrCode/1.1.631/license
+
+nanoFramework.Iot.Device.Axp192
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Axp192 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Axp192/1.2.639/license
+
+nanoFramework.Iot.Device.Bh1745
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Bh1745 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Bh1745/1.2.639/license
+
+nanoFramework.Iot.Device.Bh1750fvi
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Bh1750fvi for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Bh1750fvi/1.2.639/license
+
+nanoFramework.Iot.Device.Bmm150
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Bmm150 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Bmm150/1.2.631/license
+
+nanoFramework.Iot.Device.Bmp180
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Bmp180 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Bmp180/1.2.639/license
+
+nanoFramework.Iot.Device.Bmxx80
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Bmxx80 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Bmxx80/1.2.639/license
+
+nanoFramework.Iot.Device.Bno055
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Bno055 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Bno055/1.2.639/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=150&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=150&$top=30&semVerLevel=2.0.0 118ms
+nanoFramework.Iot.Device.Bq2579x
+ 1.0.279
+ This package includes the .NET IoT Core binding Iot.Device.Bq2579x/92/98 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Bq2579x/1.0.279/license
+
+nanoFramework.Iot.Device.Button
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Button for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Button/1.2.631/license
+
+nanoFramework.Iot.Device.Buzzer
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Buzzer for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Buzzer/1.2.639/license
+
+nanoFramework.Iot.Device.Card
+ 1.2.633
+ This package includes the .NET IoT Core binding Iot.Device.Card, Mifare, Ultralight and NDEF for .NET nanoFramework C#
+ projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Card/1.2.633/license
+
+nanoFramework.Iot.Device.CardRfid
+ 1.0.259
+ This package includes the .NET IoT Core binding Iot.Device.CardRfid, Mifare, Ultralight and NDEF for .NET nanoFramework
+ C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.CardRfid/1.0.259/license
+
+nanoFramework.Iot.Device.Ccs811
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Ccs811 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ccs811/1.2.639/license
+
+nanoFramework.Iot.Device.CharacterLcd
+ 1.1.553
+ This package includes the .NET IoT Core binding Character LCD for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.CharacterLcd/1.1.553/license
+
+nanoFramework.Iot.Device.Charlieplex
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Charlieplex for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Charlieplex/1.2.631/license
+
+nanoFramework.Iot.Device.Chsc6540
+ 1.1.631
+ This package includes the .NET IoT Core binding CHSC6540 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Chsc6540/1.1.631/license
+
+nanoFramework.Iot.Device.Common.GnssDevice
+ 1.0.31
+ This package includes the .NET IoT Core binding Iot.Device.Common.GnssDevice for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Common.GnssDevice/1.0.31/license
+
+nanoFramework.Iot.Device.Common.NumberHelper
+ 1.2.628
+ This package includes the .NET IoT Core binding helper NumberHelper for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Common.NumberHelper/1.2.628/license
+
+nanoFramework.Iot.Device.Common.WeatherHelper
+ 1.2.637
+ This package includes the .NET IoT Core binding Iot.Device.Common.WeatherHelper for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Common.WeatherHelper/1.2.637/license
+
+nanoFramework.Iot.Device.Dac63004
+ 1.0.254
+ This package includes the .NET IoT Core binding Iot.Device.Dac63004/W for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Dac63004/1.0.254/license
+
+nanoFramework.Iot.Device.DCMotor
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.DCMotor for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.DCMotor/1.2.631/license
+
+nanoFramework.Iot.Device.DhcpServer
+ 1.2.602
+ This package includes the .NET IoT Core binding Iot.Device.DhcpServer for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.DhcpServer/1.2.602/license
+
+nanoFramework.Iot.Device.Dhtxx
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Dhtxx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Dhtxx/1.2.639/license
+
+nanoFramework.Iot.Device.Dhtxx.Esp32
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Dhtxx.Esp32 for .NET nanoFramework C# projects. Only working
+ with ESP32.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Dhtxx.Esp32/1.2.639/license
+
+nanoFramework.Iot.Device.Ds1302
+ 1.0.564
+ This package includes the .NET IoT Core binding Iot.Device.Ds1302 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ds1302/1.0.564/license
+
+nanoFramework.Iot.Device.Ds1621
+ 1.0.581
+ This package includes the .NET IoT Core binding Iot.Device.Ds1621 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ds1621/1.0.581/license
+
+nanoFramework.Iot.Device.Ds18b20
+ 1.0.590
+ This package includes the .NET IoT Core binding Iot.Device.Ds18b20 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ds18b20/1.0.590/license
+
+nanoFramework.Iot.Device.ePaper
+ 1.0.467
+ This package includes .Net nanoFramework drivers for EPD devices with a graphics library. This version supports only di
+ splays based on the SSD1681 controller. More controllers will be added in the future. Please refer to the README file f
+ or more info about support.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.ePaper/1.0.467/license
+
+nanoFramework.Iot.Device.Ft6xx6x
+ 1.2.615
+ This package includes the .NET IoT Core binding FT6xx6x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ft6xx6x/1.2.615/license
+
+nanoFramework.Iot.Device.Hcsr04
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Hcsr04 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Hcsr04/1.2.639/license
+
+nanoFramework.Iot.Device.Hcsr04.Esp32
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Hcsr04.Esp32 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Hcsr04.Esp32/1.2.639/license
+
+nanoFramework.Iot.Device.Hcsr501
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Hcsr501 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Hcsr501/1.2.631/license
+
+nanoFramework.Iot.Device.Hdc1080
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Hdc1080 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Hdc1080/1.2.639/license
+
+nanoFramework.Iot.Device.Hmc5883l
+ 1.2.631
+ This package includes the .NET IoT Core binding HMC5883L for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Hmc5883l/1.2.631/license
+
+nanoFramework.Iot.Device.Hts221
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Hts221 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Hts221/1.2.639/license
+
+nanoFramework.Iot.Device.Hx711
+ 1.1.631
+ This package includes the .NET IoT Core binding for M5Stack WEIGTH module for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Hx711/1.1.631/license
+
+nanoFramework.Iot.Device.Ina219
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Ina219 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ina219/1.2.639/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=180&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=180&$top=30&semVerLevel=2.0.0 114ms
+nanoFramework.Iot.Device.Ip5306
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Ip5306 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ip5306/1.2.639/license
+
+nanoFramework.Iot.Device.KeyMatrix
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.KeyMatrix for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.KeyMatrix/1.2.631/license
+
+nanoFramework.Iot.Device.Ld2410
+ 1.0.230
+ This package includes the .NET IoT Core binding Iot.Device.Ld2410 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ld2410/1.0.230/license
+
+nanoFramework.Iot.Device.LidarLiteV3
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.LidarLiteV3 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.LidarLiteV3/1.2.639/license
+
+nanoFramework.Iot.Device.LiquidLevel
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.LiquidLevel for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.LiquidLevel/1.2.631/license
+
+nanoFramework.Iot.Device.Lis2Mdl
+ 1.0.144
+ This package includes the .NET IoT Core binding Iot.Device.Lis2Mdl for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Lis2Mdl/1.0.144/license
+
+nanoFramework.Iot.Device.Lm75
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Lm75 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Lm75/1.2.639/license
+
+nanoFramework.Iot.Device.Lp3943
+ 1.1.631
+ This package includes the .NET IoT Core binding Iot.Device.Lp3943 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Lp3943/1.1.631/license
+
+nanoFramework.Iot.Device.Lps22Hb
+ 1.0.140
+ This package includes the .NET IoT Core binding Iot.Device.Lps22Hb for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Lps22Hb/1.0.140/license
+
+nanoFramework.Iot.Device.Lps25h
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Lps25h for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Lps25h/1.2.639/license
+
+nanoFramework.Iot.Device.Lsm9Ds1
+ 1.2.631
+ This package includes the .NET IoT Core binding LSM9DS1 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Lsm9Ds1/1.2.631/license
+
+nanoFramework.Iot.Device.Max1704x
+ 1.0.174
+ This package includes the .NET IoT Core binding Iot.Device.Max1704x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Max1704x/1.0.174/license
+
+nanoFramework.Iot.Device.Max31856
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Max31856 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Max31856/1.2.639/license
+
+nanoFramework.Iot.Device.Max31865
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Max31865 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Max31865/1.2.639/license
+
+nanoFramework.Iot.Device.Max44009
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Max44009 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Max44009/1.2.639/license
+
+nanoFramework.Iot.Device.Max7219
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Max7219 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Max7219/1.2.631/license
+
+nanoFramework.Iot.Device.Mbi5027
+ 1.2.635
+ This package includes the .NET IoT Core binding Iot.Device.Mbi5027 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mbi5027/1.2.635/license
+
+nanoFramework.Iot.Device.Mcp23xxx
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Mcp23xxx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mcp23xxx/1.2.631/license
+
+nanoFramework.Iot.Device.Mcp25xxx
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Mcp25xxx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mcp25xxx/1.2.631/license
+
+nanoFramework.Iot.Device.Mcp3428
+ 1.2.631
+ This package includes the .NET IoT Core binding MCP3428 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mcp3428/1.2.631/license
+
+nanoFramework.Iot.Device.Mcp3xxx
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Mcp3xxx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mcp3xxx/1.2.631/license
+
+nanoFramework.Iot.Device.Mcp7940xx
+ 1.0.577
+ This package includes the .NET IoT Core binding Iot.Device.Mcp7940xx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mcp7940xx/1.0.577/license
+
+nanoFramework.Iot.Device.Mcp960x
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Mcp960x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mcp960x/1.2.639/license
+
+nanoFramework.Iot.Device.Mcp9808
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Mcp9808 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mcp9808/1.2.639/license
+
+nanoFramework.Iot.Device.Mfrc522
+ 1.2.635
+ This package includes the .NET IoT Core binding Iot.Device.Mfrc522 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mfrc522/1.2.635/license
+
+nanoFramework.Iot.Device.Mhz19b
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Mhz19b for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mhz19b/1.2.639/license
+
+nanoFramework.Iot.Device.Mlx90614
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Mlx90614 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mlx90614/1.2.639/license
+
+nanoFramework.Iot.Device.Modbus
+ 1.0.284
+ This package includes the .NET IoT Core binding Iot.Device.Modbus for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Modbus/1.0.284/license
+
+nanoFramework.Iot.Device.Mpr121
+ 1.2.631
+ This package includes the .NET IoT Core binding MPR121 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mpr121/1.2.631/license
+
+nanoFramework.Iot.Device.Mpu6886
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Mpu6886 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mpu6886/1.2.639/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=210&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=210&$top=30&semVerLevel=2.0.0 113ms
+nanoFramework.Iot.Device.Mpu9250
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Mpu9250, Iot.Device.Mpu6500 and Iot.Device.Mpu6050 for .NET
+ nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Mpu9250/1.2.639/license
+
+nanoFramework.Iot.Device.Ms5611
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Ms5611 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ms5611/1.2.639/license
+
+nanoFramework.Iot.Device.Multiplexing
+ 1.2.628
+ This package includes the .NET IoT Core binding helper multiplexing for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Multiplexing/1.2.628/license
+
+nanoFramework.Iot.Device.Nrf24l01
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Nrf24l01 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Nrf24l01/1.2.631/license
+
+nanoFramework.Iot.Device.Pca95x4
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Pca95x4 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Pca95x4/1.2.631/license
+
+nanoFramework.Iot.Device.Pcd8544
+ 1.0.559
+ This package includes the .NET IoT Core binding Iot.Device.Pcd8544 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Pcd8544/1.0.559/license
+
+nanoFramework.Iot.Device.Pcx857x
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Pcx857x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Pcx857x/1.2.631/license
+
+nanoFramework.Iot.Device.Pn5180
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Pn5180 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Pn5180/1.2.631/license
+
+nanoFramework.Iot.Device.Pn532
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Pn532 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Pn532/1.2.631/license
+
+nanoFramework.Iot.Device.QtrSensors
+ 1.0.404
+ This package includes the .NET IoT Core binding Iot.Device.QtrSensors for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.QtrSensors/1.0.404/license
+
+nanoFramework.Iot.Device.RadioReceiver
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.RadioReceiver for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.RadioReceiver/1.2.639/license
+
+nanoFramework.Iot.Device.RadioTransmitter
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.RadioTransmitter for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.RadioTransmitter/1.2.639/license
+
+nanoFramework.Iot.Device.Relay4
+ 1.1.631
+ This package includes the .NET IoT Core binding M5Stack Relay4 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Relay4/1.1.631/license
+
+nanoFramework.Iot.Device.RgbDiode
+ 1.0.168
+ This package includes the .NET nanoFramework binding Iot.Device.RgbDiode for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.RgbDiode/1.0.168/license
+
+nanoFramework.Iot.Device.RotaryEncoder
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.RotaryEncoder for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.RotaryEncoder/1.2.631/license
+
+nanoFramework.Iot.Device.RotaryEncoder.Esp32
+ 1.0.351
+ This package includes the .NET IoT Core binding Iot.Device.RotaryEncoder.Esp32 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.RotaryEncoder.Esp32/1.0.351/license
+
+nanoFramework.Iot.Device.Rtc
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Rtc for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Rtc/1.2.639/license
+
+nanoFramework.Iot.Device.Scd30
+ 1.0.617
+ This package contains a driver to communicate with the SCD30 via the UART interface.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Scd30/1.0.617/license
+
+nanoFramework.Iot.Device.Scd4x
+ 1.0.1
+ This package includes the .NET IoT Core binding Iot.Device.Scd4x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Scd4x/1.0.1/license
+
+nanoFramework.Iot.Device.Seesaw
+ 1.0.56.61818
+ This package includes the .NET IoT Core binding Iot.Device.Seesaw for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Seesaw/1.0.56.61818/license
+
+nanoFramework.Iot.Device.Sen5x
+ 1.0.326
+ This package contains a driver to communicate with the Sen5x via the UART interface.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Sen5x/1.0.326/license
+
+nanoFramework.Iot.Device.ServoMotor
+ 1.2.631
+ This package includes the .NET IoT Core binding Servo Motor for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.ServoMotor/1.2.631/license
+
+nanoFramework.Iot.Device.ShiftRegister
+ 1.2.633
+ This package includes the .NET IoT Core binding Iot.Device.ShiftRegister for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.ShiftRegister/1.2.633/license
+
+nanoFramework.Iot.Device.Sht3x
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Sht3x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Sht3x/1.2.639/license
+
+nanoFramework.Iot.Device.Sht4x
+ 1.0.63
+ This package includes the .NET IoT Core binding Iot.Device.Sht4x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Sht4x/1.0.63/license
+
+nanoFramework.Iot.Device.Shtc3
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Shtc3 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Shtc3/1.2.639/license
+
+nanoFramework.Iot.Device.Si7021
+ 1.3.639
+ This package includes the .NET IoT Core binding Iot.Device.Si7021 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Si7021/1.3.639/license
+
+nanoFramework.Iot.Device.Sn74hc595
+ 1.2.635
+ This package includes the .NET IoT Core binding Iot.Device.Sn74hc595 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Sn74hc595/1.2.635/license
+
+nanoFramework.Iot.Device.SparkFunLcd
+ 1.1.631
+ This package includes the .NET IoT Core binding SparkFun LCD for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.SparkFunLcd/1.1.631/license
+
+nanoFramework.Iot.Device.Sps30
+ 1.1.639
+ This package contains a driver to communicate with the SPS30 via the UART interface.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Sps30/1.1.639/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=240&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=240&$top=30&semVerLevel=2.0.0 112ms
+nanoFramework.Iot.Device.Ssd13xx
+ 1.3.445
+ This package includes the .NET IoT Core binding Iot.Device.Ssd13xx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ssd13xx/1.3.445/license
+
+nanoFramework.Iot.Device.SwarmTile
+ 1.0.615
+ This package includes the .NET IoT Core binding Iot.Device.Swarm for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.SwarmTile/1.0.615/license
+
+nanoFramework.Iot.Device.Tcs3472x
+ 1.2.631
+ This package includes the .NET IoT Core binding TCS3472x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Tcs3472x/1.2.631/license
+
+nanoFramework.Iot.Device.Tlc1543
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Tlc1543 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Tlc1543/1.2.631/license
+
+nanoFramework.Iot.Device.Tm1637
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Tm1637 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Tm1637/1.2.631/license
+
+nanoFramework.Iot.Device.Tsl256x
+ 1.2.639
+ This package includes the .NET IoT Core binding Iot.Device.Tsl256x for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Tsl256x/1.2.639/license
+
+nanoFramework.Iot.Device.Uln2003
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Uln2003 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Uln2003/1.2.631/license
+
+nanoFramework.Iot.Device.Vl53L0X
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Vl53L0X for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Vl53L0X/1.2.631/license
+
+nanoFramework.Iot.Device.Ws28xx
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Ws28xx for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ws28xx/1.2.631/license
+
+nanoFramework.Iot.Device.Ws28xx.Esp32
+ 1.2.631
+ This package includes the .NET nanoFramework binding Ws28xx (specific for ESP32 devices) for .NET nanoFramework C# proj
+ ects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Ws28xx.Esp32/1.2.631/license
+
+nanoFramework.Iot.Device.Yx5300
+ 1.2.631
+ This package includes the .NET IoT Core binding Iot.Device.Yx5300 for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Iot.Device.Yx5300/1.2.631/license
+
+nanoFramework.Json
+ 2.2.134
+ This package includes nanoFramework.Json, a helper class library to deal with json serialization/deserialization in .NE
+ T nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Json/2.2.134/license
+
+nanoFramework.Logging
+ 1.1.108
+ This package includes the nanoFramework.Logging assembly for .NET nanoFramework C# projects.
+ There are also two other packages with just the Serial Logging and just the Stream Logging.
+ These are meant to be used when you want to use those possibilities.
+ License url: https://www.nuget.org/packages/nanoFramework.Logging/1.1.108/license
+
+nanoFramework.Logging.Serial
+ 1.1.108
+ This package includes the nanoFramework.Logging.Serial assembly (Serial Logging only) for .NET nanoFramework C# project
+ s.
+ There is also a package with the Stream Logging only and another with the basic Debug Logging.
+ License url: https://www.nuget.org/packages/nanoFramework.Logging.Serial/1.1.108/license
+
+nanoFramework.Logging.Stream
+ 1.1.108
+ This package includes the nanoFramework.Logging.Stream assembly (Stream Logging only) for .NET nanoFramework C# project
+ s.
+ There is also a package with the Serial Logger only and another with the basic Debug Logger.
+ License url: https://www.nuget.org/packages/nanoFramework.Logging.Stream/1.1.108/license
+
+nanoFramework.Logging.Syslog
+ 1.1.108
+ This package includes the nanoFramework.Logging.Syslog assembly (Syslog Logging only) for .NET nanoFramework C# project
+ s.
+ There is also a package with the Serial Logging, another with Stream Logging only and another with the basic Debug Logg
+ ing.
+ License url: https://www.nuget.org/packages/nanoFramework.Logging.Syslog/1.1.108/license
+
+nanoFramework.M2Mqtt
+ 5.1.138
+ M2Mqtt is a MQTT client available for .NET nanoFramework for M2M communication.
+ License url: https://www.nuget.org/packages/nanoFramework.M2Mqtt/5.1.138/license
+
+nanoFramework.M2Mqtt.Core
+ 5.1.138
+ M2Mqtt is a MQTT client available for .NET nanoFramework for M2M communication.
+ License url: https://www.nuget.org/packages/nanoFramework.M2Mqtt.Core/5.1.138/license
+
+nanoFramework.M5Core
+ 1.1.238
+ This package includes the nanoFramework.M5Core assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.M5Core/1.1.238/license
+
+nanoFramework.M5Core2
+ 1.1.238
+ This package includes the nanoFramework.M5Core2 assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.M5Core2/1.1.238/license
+
+nanoFramework.M5Stack
+ 1.0.0
+ This package includes the nanoFramework.M5Stack assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.M5Stack/1.0.0/license
+
+nanoFramework.M5StickC
+ 1.1.238
+ This package includes the nanoFramework.M5StickC assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.M5StickC/1.1.238/license
+
+nanoFramework.M5StickCPlus
+ 1.1.238
+ This package includes the nanoFramework.M5StickCPlus assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.M5StickCPlus/1.1.238/license
+
+nanoFramework.MagicBit
+ 1.2.154
+ This package includes nanoFramework.MagicBit, a board package library for MagicBit in .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.MagicBit/1.2.154/license
+
+nanoFramework.nanoCLR.CLI
+ 1.0.15
+ .NET nanoFramework CLI that runs the nanoCLR as a virtual device.
+ License url: https://www.nuget.org/packages/nanoFramework.nanoCLR.CLI/1.0.15/license
+
+nanoFramework.nanoCLR.Win32
+ 1.12.0.74
+ This package includes the .NET nanoFramework nanoCLR for Win32.
+ License url: https://www.nuget.org/packages/nanoFramework.nanoCLR.Win32/1.12.0.74/license
+
+nanoFramework.NetWorkHelper
+ 1.3.3
+ This package includes the NetWorkHelper assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.NetWorkHelper/1.3.3/license
+
+nanoFramework.Networking.Sntp
+ 1.6.25
+ This package includes the nanoFramework.Networking.Sntp assembly for nanoFramework C# projects.
+ This package requires a target with nanoFramework.Networking.Sntp v100.0.4.4 (checksum 0xE2D9BDED).
+ License url: https://www.nuget.org/packages/nanoFramework.Networking.Sntp/1.6.25/license
+
+nanoFramework.Networking.Thread
+ 1.0.12
+ This package includes the nanoFramework.Networking.Thread assembly for .NET nanoFramework C# projects running on target
+ s supporting OpenThread.
+ License url: https://www.nuget.org/packages/nanoFramework.Networking.Thread/1.0.12/license
+
+nanoFramework.ResourceManager
+ 1.2.19
+ This package includes the nanoFramework.ResourceManager assembly for nanoFramework C# projects.
+ This package requires a target with nanoFramework.ResourceManager v100.0.0.1 (checksum 0xDCD7DF4D).
+ License url: https://www.nuget.org/packages/nanoFramework.ResourceManager/1.2.19/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=270&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=270&$top=30&semVerLevel=2.0.0 113ms
+nanoFramework.Runtime.Events
+ 1.11.18
+ This package includes the nanoFramework.Runtime.Events assembly for nanoFramework C# projects.
+ This package requires a target with nanoFramework.Runtime.Events v100.0.8.0 (checksum 0x0EAB00C9).
+ License url: https://www.nuget.org/packages/nanoFramework.Runtime.Events/1.11.18/license
+
+nanoFramework.Runtime.Native
+ 1.6.12
+ This package includes the nanoFramework.Runtime.Native assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Runtime.Native v100.0.9.0 (checksum 0x109F6F22).
+ License url: https://www.nuget.org/packages/nanoFramework.Runtime.Native/1.6.12/license
+
+nanoFramework.Serialization.Helper
+ 1.0.12
+ .NET nanoFramework binary formatter to serialize and deserialize binary data exchanged with nanoFramework devices.
+ License url: https://www.nuget.org/packages/nanoFramework.Serialization.Helper/1.0.12/license
+
+nanoFramework.SignalR.Client
+ 1.1.74
+ This package includes the nanoFramework.SignalR.Client assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.SignalR.Client/1.1.74/license
+
+nanoFramework.System.Buffers.Binary.BinaryPrimitives
+ 1.2.628
+ This package includes the .NET System.Buffers.Binary.BinaryPrimitives namespace for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Buffers.Binary.BinaryPrimitives/1.2.628/license
+
+nanoFramework.System.Collections
+ 1.5.31
+ This package includes the .NET System.Collections assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Collections v100.0.1.0 (checksum 0x2DC2B090).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Collections/1.5.31/license
+
+nanoFramework.System.Device.Adc
+ 1.1.11
+ This package includes the System.Device.Adc assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.Adc v100.0.0.0 (checksum 0xE5B80F0B).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.Adc/1.1.11/license
+
+nanoFramework.System.Device.Dac
+ 1.5.13
+ This package includes the System.Device.Dac assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.Dac v100.0.0.6 (checksum 0x02B3E860).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.Dac/1.5.13/license
+
+nanoFramework.System.Device.Gpio
+ 1.1.41
+ This package includes the System.Device.Gpio assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.Gpio v100.1.0.6 (checksum 0x097E7BC5).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.Gpio/1.1.41/license
+
+nanoFramework.System.Device.I2c
+ 1.1.16
+ This package includes the System.Device.I2c assembly for nanoFramework C# projects.
+ This package requires a target with System.Device.I2c v100.0.0.2 (checksum 0xFA806D33).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.I2c/1.1.16/license
+
+nanoFramework.System.Device.I2c.Slave
+ 1.0.10
+ This package includes the System.Device.I2c.Slave assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.I2c.Slave v1.0.0.0 (checksum 0x4238164B).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.I2c.Slave/1.0.10/license
+
+nanoFramework.System.Device.I2s
+ 1.0.15
+ This package includes the System.Device.I2s assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.I2s v100.0.0.1 (checksum 0x478490FE).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.I2s/1.0.15/license
+
+nanoFramework.System.Device.Model
+ 1.2.628
+ This package includes the .NET System.Device.Model for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.Model/1.2.628/license
+
+nanoFramework.System.Device.Pwm
+ 1.1.10
+ This package includes the nanoFramework System.Device.Pwm assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.System.Device.Pwm v100.1.0.4 (checksum 0xABF532C3).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.Pwm/1.1.10/license
+
+nanoFramework.System.Device.Spi
+ 1.3.52
+ This package includes the System.Device.Spi assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.Spi v100.1.2.0 (checksum 0x3F6E2A7E).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.Spi/1.3.52/license
+
+nanoFramework.System.Device.UsbStream
+ 1.0.62
+ This package includes the System.Device.UsbStream assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.UsbStream v100.0.0.6 (checksum 0x21BF24CB).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.UsbStream/1.0.62/license
+
+nanoFramework.System.Device.Wifi
+ 1.5.91
+ This package includes the System.Device.Wifi assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Device.Wifi v100.0.6.4 (checksum 0x00A058C6).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Device.Wifi/1.5.91/license
+
+nanoFramework.System.Devices.Dac
+ 1.4.0
+ This package includes the System.Devices.Dac assembly for nanoFramework C# projects.
+ This package requires a target with System.Devices.Dac v100.0.0.6.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Devices.Dac/1.4.0/license
+
+nanoFramework.System.Diagnostics.Stopwatch
+ 1.2.628
+ This package includes the .NET System.Diagnostics.Stopwatch namespace for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Diagnostics.Stopwatch/1.2.628/license
+
+nanoFramework.System.Drawing
+ 1.2.628
+ This package includes the .NET System.Drawing namespace for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Drawing/1.2.628/license
+
+nanoFramework.System.IO.Hashing
+ 1.0.3
+ This package includes the nanoFramework System.IO.Hashing assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.System.IO.Hashing v100.0.0.1 (checksum 0xEBD8ED20).
+ License url: https://www.nuget.org/packages/nanoFramework.System.IO.Hashing/1.0.3/license
+
+nanoFramework.System.IO.Ports
+ 1.1.86
+ This package includes the System.IO.Ports assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.IO.Ports v100.1.6.1 (checksum 0xB798CE30).
+ License url: https://www.nuget.org/packages/nanoFramework.System.IO.Ports/1.1.86/license
+
+nanoFramework.System.IO.Streams
+ 1.1.59
+ This package includes the System.IO.Streams assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.IO.Streams/1.1.59/license
+
+nanoFramework.System.Math
+ 1.5.43
+ This package includes the nanoFramework.System.Math assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Math v100.0.5.5 (checksum 0x9F9E2A7E).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Math/1.5.43/license
+
+nanoFramework.System.Net
+ 1.11.1
+ This package includes the nanoFramework System.Net assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.Net v100.2.0.11 (checksum 0xD82C1452).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net/1.11.1/license
+
+nanoFramework.System.Net.Http
+ 1.5.145
+ This package includes the System.Net.Http assembly for .NET nanoFramework C# projects.
+ There are also two other packages with just the client API and just the server API.
+ These are meant to be used when there is the need to use smaller assemblies.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net.Http/1.5.145/license
+
+nanoFramework.System.Net.Http.Client
+ 1.5.145
+ This package includes the System.Net.Http assembly (client API only) for .NET nanoFramework C# projects.
+ There is also a package with the server API only and another with the full API.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net.Http.Client/1.5.145/license
+
+nanoFramework.System.Net.Http.Server
+ 1.5.145
+ This package includes the System.Net.Http assembly (server API only) for .NET nanoFramework C# projects.
+ There is also a package with the client API only and another with the full API.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net.Http.Server/1.5.145/license
+
+nanoframework.System.Net.Sockets.TcpClient
+ 1.1.83
+ This package includes the System.Net.Sockets.TcpClient assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoframework.System.Net.Sockets.TcpClient/1.1.83/license
+
+nanoFramework.System.Net.Sockets.UdpClient
+ 1.1.65
+ This package includes the System.Net.Sockets.UdpClient assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net.Sockets.UdpClient/1.1.65/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=300&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=300&$top=30&semVerLevel=2.0.0 114ms
+nanoFramework.System.Net.WebSockets
+ 1.1.102
+ This package includes the System.Net.WebSockets assembly for nanoFramework C# projects.
+ There are also two other packages with just the client API and just the server API.
+ These are meant to be used when there is the need to use smaller assemblies.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net.WebSockets/1.1.102/license
+
+nanoFramework.System.Net.WebSockets.Client
+ 1.1.102
+ This package includes the System.Net.WebSockets assembly (client API only) for .NET nanoFramework C# projects.
+ There are also two other packages, one with the server API only and another with the complete API.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net.WebSockets.Client/1.1.102/license
+
+nanoFramework.System.Net.WebSockets.Server
+ 1.1.102
+ This package includes the System.Net.WebSockets assembly (server API only) for .NET nanoFramework C# projects.
+ There are also two other packages, one with the client API only and another with the complete API.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Net.WebSockets.Server/1.1.102/license
+
+nanoFramework.System.Numerics
+ 1.2.628
+ This package includes the .NET System.Numerics namespace for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Numerics/1.2.628/license
+
+nanoFramework.System.Runtime
+ 1.0.27
+ This package includes the System.Runtime assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Runtime/1.0.27/license
+
+nanoFramework.System.Runtime.Serialization
+ 1.0.36
+ This package includes the System.Runtime.Serialization assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.System.Runtime.Serialization v100.0.0.0 (checksum 0x0A066871).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Runtime.Serialization/1.0.36/license
+
+nanoFramework.System.Security.Cryptography
+ 1.0.14
+ This package includes the nanoFramework System.Security.Cryptography assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.System.Security.Cryptography v100.0.0.3 (checksum 0x343142CA).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Security.Cryptography/1.0.14/license
+
+nanoFramework.System.Text
+ 1.2.54
+ This package includes the System.Text assembly for nanoFramework C# projects.
+ This package requires a target with System.Text v100.0.0.1 (checksum 0x8E6EB73D).
+ License url: https://www.nuget.org/packages/nanoFramework.System.Text/1.2.54/license
+
+nanoFramework.System.Text.RegularExpressions
+ 1.1.51
+ This package includes the System.Text assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Text.RegularExpressions/1.1.51/license
+
+nanoFramework.System.Threading
+ 1.1.32
+ This package includes the nanoFramework.System.Threading assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.System.Threading/1.1.32/license
+
+nanoFramework.Targets.NETDUINO3_WIFI
+ 1.0.27
+ Helper classes to use NETDUINO3_WIFI target in C# applications.
+ License url: https://github.com/nanoframework/nf-interpreter/blob/develop/LICENSE.md
+
+nanoFramework.Targets.ORGPAL_PALTHREE
+ 1.0.1697
+ Helper classes to use ORGPAL_PALTHREE target in C# applications.
+ License url: https://github.com/nanoframework/nf-interpreter/blob/develop/LICENSE.md
+
+nanoFramework.Targets.ST_STM32F429I_DISCOVERY
+ 1.0.27
+ Helper classes to use ST_STM32F429I_DISCOVERY target in C# applications.
+ License url: https://github.com/nanoframework/nf-interpreter/blob/develop/LICENSE.md
+
+nanoFramework.Targets.ST_STM32F769I_DISCOVERY
+ 1.0.793
+ Helper classes to use ST_STM32F769I_DISCOVERY target in C# applications.
+ License url: https://github.com/nanoframework/nf-interpreter/blob/develop/LICENSE.md
+
+nanoFramework.Targets.TI_CC3220SF_LAUNCHXL
+ 1.0.573
+ Helper classes to use TI_CC3220SF_LAUNCHXL target in C# applications.
+ License url: https://github.com/nanoframework/nf-interpreter/blob/develop/LICENSE.md
+
+nanoFramework.TestFramework
+ 2.1.112
+ This package includes the Test Framework to be used for Unit Tests in .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.TestFramework/2.1.112/license
+
+nanoFramework.TI.EasyLink
+ 1.4.15
+ This package includes the nanoFramework.TI.EasyLink assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.TI.EasyLink v100.0.0.3 (checksum 0x948DBCF9).
+ License url: https://www.nuget.org/packages/nanoFramework.TI.EasyLink/1.4.15/license
+
+nanoFramework.Tools.Debugger.Net
+ 2.4.42
+ This .NET library provides a debug client for .NET nanoFramework devices using USB or Serial connection to a board.
+ License url: https://www.nuget.org/packages/nanoFramework.Tools.Debugger.Net/2.4.42/license
+
+nanoFramework.Tools.FirmwareFlasher
+ 2.5.90
+ .NET nanoFirmwareFlasher tool to flash firmware images to target devices.
+ License url: https://www.nuget.org/packages/nanoFramework.Tools.FirmwareFlasher/2.5.90/license
+
+nanoFramework.Tools.MetadataProcessor.CLI
+ 3.0.53
+ Command line interface to the Metadata Processor that is used internally by nanoFramework tooling and VS extensions. It
+ is not needed for regular nanoFramework projects, but there are a few use cases where this tool is required.
+ License url: https://www.nuget.org/packages/nanoFramework.Tools.MetadataProcessor.CLI/3.0.53/license
+
+nanoFramework.Tools.MetadataProcessor.MsBuildTask
+ 3.0.53
+ This package includes the Metadata Processor build task required to build a .NET nanoFramework project with msbuild and
+ dotnet tool.
+ License url: https://www.nuget.org/packages/nanoFramework.Tools.MetadataProcessor.MsBuildTask/3.0.53/license
+
+nanoFramework.Tough
+ 1.1.238
+ This package includes the nanoFramework.Tough assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Tough/1.1.238/license
+
+nanoFramework.WebServer
+ 1.2.56
+ This is a simple multithread WebServer supporting simple controller and event based calls.
+ Perfect for .NET nanoFramework REST API based project. Supports both HTTPS and HTTP.
+ If serving files from local storage is a requirement, please use instead the 'nanoFramework.WebServer.FileSystem' nuget
+ .
+ License url: https://www.nuget.org/packages/nanoFramework.WebServer/1.2.56/license
+
+nanoFramework.WebServer.FileSystem
+ 1.2.56
+ This is a simple multithread WebServer supporting simple controller and event based calls.
+ Perfect for .NET nanoFramework REST API based project. Support all type of Http Methods.
+ Perfect for simple embedded web pages, with Support of file on a storage (USB, SD Card, in Memory).
+ Supports both HTTPS and HTTP.
+ Use this version if you want to serve local files and have support for System.IO.FileSystem on your device.
+ Otherwise use 'nanoFramework.WebServer' nuget.
+ License url: https://www.nuget.org/packages/nanoFramework.WebServer.FileSystem/1.2.56/license
+
+nanoFramework.Windows.Devices.Adc
+ 1.5.3
+ This package includes the Windows.Devices.Adc assembly for nanoFramework C# projects.
+ This package requires a target with Windows.Devices.Adc v100.1.3.3.
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Devices.Adc/1.5.3/license
+
+nanoFramework.Windows.Devices.Gpio
+ 1.5.5
+ This package includes the Windows.Devices.Gpio assembly for nanoFramework C# projects.
+ This package requires a target with Windows.Devices.Gpio v100.1.2.2 (checksum 0xC41539BE).
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Devices.Gpio/1.5.5/license
+
+nanoFramework.Windows.Devices.I2c
+ 1.4.3
+ This package includes the Windows.Devices.I2c assembly for .NET nanoFramework C# projects.
+ This package requires a target with Windows.Devices.I2c v.
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Devices.I2c/1.4.3/license
+
+nanoFramework.Windows.Devices.Pwm
+ 1.6.2
+ This package includes the Windows.Devices.Pwm assembly for nanoFramework C# projects. This package requires a target wi
+ th Windows.Devices.Pwm v100.1.3.3.
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Devices.Pwm/1.6.2/license
+
+nanoFramework.Windows.Devices.SerialCommunication
+ 1.3.7
+ This package includes the Windows.Devices.SerialCommunication assembly for nanoFramework C# projects.
+ This package requires a target with Windows.Devices.SerialCommunication v100.1.1.2 (checksum 0x34BAF06E).
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Devices.SerialCommunication/1.3.7/license
+
+nanoFramework.Windows.Devices.Spi
+ 1.4.3
+ This package includes the Windows.Devices.Spi assembly for nanoFramework C# projects.
+ This package requires a target with Windows.Devices.Spi v100.1.4.2.
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Devices.Spi/1.4.3/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=330&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=330&$top=30&semVerLevel=2.0.0 113ms
+nanoFramework.Windows.Devices.Wifi
+ 1.3.3
+ This package includes the Windows.Devices.Wifi assembly for .NET nanoFramework C# projects.
+ This package requires a target with Windows.Devices.Wifi v.
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Devices.Wifi/1.3.3/license
+
+nanoFramework.Windows.Storage
+ 1.5.51
+ This package includes the nanoFramework.Windows.Storage assembly for .NET nanoFramework C# projects.
+ This package requires a target with nanoFramework.Windows.Storage v100.0.3.0 (checksum 0xF0C37E1B).
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Storage/1.5.51/license
+
+nanoFramework.Windows.Storage.Streams
+ 1.14.32
+ This package includes the Windows.Storage.Streams assembly for .NET nanoFramework C# projects.
+ License url: https://www.nuget.org/packages/nanoFramework.Windows.Storage.Streams/1.14.32/license
+
+nanoFrameworkDeployer
+ 1.1.52
+ This package includes the .NET nanoFrameworkDeployer library that allows developing applications that deploy .NET nanoF
+ ramework assemblies.
+ License url: https://www.nuget.org/packages/nanoFrameworkDeployer/1.1.52/license
+
+NanoProfiler.EF
+ 2.2.1
+ NanoProfiler EntityFramework 6 Support
+ License url: https://www.nuget.org/packages/NanoProfiler.EF/2.2.1/license
+
+nanovc
+ 1.0.346
+ .NET tool to check for version mismatches in nanoFramework builds. This is meant to be used in nanoFramework CI-CD pipe
+ lines.
+ License url: https://www.nuget.org/packages/nanovc/1.0.346/license
+
+Napack
+ 0.5.1
+ Contains the Napack Framework Client to create and update nano-scale packages. See https://napack.net for a full descri
+ ption.
+ License url: https://github.com/GuMiner/napack/blob/master/LICENSE
+
+nanoFramework.System.IO.FileSystem
+ 1.1.54
+ This package includes the System.IO.FileSystem assembly for .NET nanoFramework C# projects.
+ This package requires a target with System.IO.FileSystem v1.1.0.3 (checksum 0xB0025409).
+ License url: https://www.nuget.org/packages/nanoFramework.System.IO.FileSystem/1.1.54/license
+
+TekuSP.Drivers.DriverBase
+ 0.3.71
+ Nuget Package for Nanoframework, used as base for all Drivers from TekuSP.
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.DriverBase/0.3.71/license
+
+TekuSP.Drivers.SHTC3
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Sensor Sensirion SHTC3 humidity and temperature sensor
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.SHTC3/0.3.71/license
+
+TekuSP.Drivers.LPS22HB
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Sensor STMicroelectronics LPS22HB
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.LPS22HB/0.3.71/license
+
+TekuSP.Drivers.TCS34725
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Color sensor TAOS TCS34725
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.TCS34725/0.3.71/license
+
+TekuSP.Drivers.ICM20948
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Sensor TDK InvenSense ICM20948
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.ICM20948/0.3.71/license
+
+TekuSP.Drivers.ADS1015
+ 0.3.71
+ Nuget Package for Nanoframework, used for: ADC Convertor Texas Instruments ADS1015
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.ADS1015/0.3.71/license
+
+TekuSP.Drivers.HDC1080
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Sensor Texas Instruments HDC1080
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.HDC1080/0.3.71/license
+
+TekuSP.Drivers.CST816D
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Touch Screen CST816D
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.CST816D/0.3.71/license
+
+TekuSP.Drivers.DriverBaseI2C
+ 0.3.71
+ Nuget Package for Nanoframework, used as base for all I2C Drivers from TekuSP.
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.DriverBaseI2C/0.3.71/license
+
+TekuSP.Drivers.SSD1331
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Display OLED Solomon Systech SSD1331
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.SSD1331/0.3.71/license
+
+TekuSP.Drivers.DriverBaseSPI
+ 0.3.71
+ Nuget Package for Nanoframework, used as base for all SPI Drivers from TekuSP.
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.DriverBaseSPI/0.3.71/license
+
+TekuSP.Drivers.MHZ19B
+ 0.3.71
+ Nuget Package for Nanoframework, used for: Sensor Zhengzhou Winsen Electronics Technology Co., Ltd, Intelligent Infrare
+ d CO2 Module MH-Z19B
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.MHZ19B/0.3.71/license
+
+TekuSP.Drivers.DriverBaseUART
+ 0.3.71
+ Nuget Package for Nanoframework, used as base for all UART Drivers from TekuSP.
+ License url: https://www.nuget.org/packages/TekuSP.Drivers.DriverBaseUART/0.3.71/license
+
+TinyGPSPlusNF
+ 1.0.3
+ TinyGPSPlusNF is a .NET nanoFramework port of the TinyGPSPlus Arduino library.
+ License url: https://www.nuget.org/packages/TinyGPSPlusNF/1.0.3/license
+
+UnitsNet.nanoFramework.Acceleration
+ 5.58.0
+ Adds Acceleration units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Acceleration/5.58.0/license
+
+UnitsNet.nanoFramework.Angle
+ 5.58.0
+ Adds Angle units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Angle/5.58.0/license
+
+UnitsNet.nanoFramework.Density
+ 5.58.0
+ Adds Density units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Density/5.58.0/license
+
+UnitsNet.nanoFramework.Duration
+ 5.58.0
+ Adds Duration units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Duration/5.58.0/license
+
+UnitsNet.nanoFramework.ElectricCurrent
+ 5.58.0
+ Adds ElectricCurrent units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.ElectricCurrent/5.58.0/license
+
+UnitsNet.nanoFramework.ElectricPotential
+ 5.58.0
+ Adds ElectricPotential units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.ElectricPotential/5.58.0/license
+
+UnitsNet.nanoFramework.ElectricPotentialDc
+ 5.58.0
+ Adds ElectricPotentialDc units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.ElectricPotentialDc/5.58.0/license
+
+UnitsNet.nanoFramework.ElectricResistance
+ 5.58.0
+ Adds ElectricResistance units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.ElectricResistance/5.58.0/license
+
+Enhanced retry: HttpRetryHandler is in a state that retry would have been abandoned or not waited if it were not enabled.
+  GET https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=360&$top=30&semVerLevel=2.0.0
+  OK https://www.nuget.org/api/v2/Search()?$filter=IsLatestVersion&$orderby=Id&searchTerm='nanoFramework'&targetFramework=''&includePrerelease=false&$skip=360&$top=30&semVerLevel=2.0.0 115ms
+UnitsNet.nanoFramework.Frequency
+ 5.58.0
+ Adds Frequency units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Frequency/5.58.0/license
+
+UnitsNet.nanoFramework.Illuminance
+ 5.58.0
+ Adds Illuminance units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Illuminance/5.58.0/license
+
+UnitsNet.nanoFramework.Length
+ 5.58.0
+ Adds Length units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Length/5.58.0/license
+
+UnitsNet.nanoFramework.MagneticField
+ 5.58.0
+ Adds MagneticField units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.MagneticField/5.58.0/license
+
+UnitsNet.nanoFramework.Mass
+ 5.58.0
+ Adds Mass units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Mass/5.58.0/license
+
+UnitsNet.nanoFramework.MassConcentration
+ 5.58.0
+ Adds MassConcentration units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.MassConcentration/5.58.0/license
+
+UnitsNet.nanoFramework.Power
+ 5.58.0
+ Adds Power units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Power/5.58.0/license
+
+UnitsNet.nanoFramework.Pressure
+ 5.58.0
+ Adds Pressure units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Pressure/5.58.0/license
+
+UnitsNet.nanoFramework.Ratio
+ 5.58.0
+ Adds Ratio units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Ratio/5.58.0/license
+
+UnitsNet.nanoFramework.RelativeHumidity
+ 5.58.0
+ Adds RelativeHumidity units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.RelativeHumidity/5.58.0/license
+
+UnitsNet.nanoFramework.Speed
+ 5.58.0
+ Adds Speed units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Speed/5.58.0/license
+
+UnitsNet.nanoFramework.Temperature
+ 5.58.0
+ Adds Temperature units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.Temperature/5.58.0/license
+
+UnitsNet.nanoFramework.VolumeConcentration
+ 5.58.0
+ Adds VolumeConcentration units for Units.NET on .NET nanoFramework. For .NET or .NET Core, use UnitsNet instead.
+ License url: https://www.nuget.org/packages/UnitsNet.nanoFramework.VolumeConcentration/5.58.0/license
+
+UwpDesktop-nf
+ 10.0.17763.132
+ Package for internal use, forked from https://github.com/ljw1004/uwp-desktop
+ License url: https://github.com/ljw1004/uwp-desktop/blob/master/LICENSE
+

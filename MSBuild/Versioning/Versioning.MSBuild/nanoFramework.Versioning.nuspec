@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>nanoFramework.Versioning</id>
+    <version>$version$</version>
+    <title>nanoFramework.Versioning</title>
+    <authors>nanoframework</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <releaseNotes>
+    </releaseNotes>
+    <readme>docs\README.md</readme>
+    <developmentDependency>true</developmentDependency>
+    <projectUrl>https://github.com/nanoframework/nf-Visual-Studio-extension</projectUrl>
+    <icon>images\nf-logo.png</icon>
+    <repository type="git" url="https://github.com/nanoframework/nf-Visual-Studio-extension" commit="$commit$" />
+    <copyright>Copyright (c) .NET Foundation and Contributors</copyright>
+    <description>
+      This package provides MSBuild support for the controlled update strategy. It contains tasks that verify the
+      consistency of the nanoFramework NuGet packages used in a project and the firmware of the device types the
+      project is intended to be deployed to.
+    </description>
+    <tags>nanoFramework C# csharp netmf netnf</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\net472\*.dll" target="tools" />
+    <file src="NFVersioning.props" target="build/nanoFramework.Versioning.props" />
+    <file src="NFVersioning.targets" target="build/nanoFramework.Versioning.targets" />
+    <file src="..\..\..\README.md" target="docs\" />
+    <file src="..\..\..\assets\nf-logo.png" target="images" />
+    <file src="..\..\..\LICENSE.md" target="" />
+  </files>
+</package>

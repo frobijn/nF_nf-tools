@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net472</TargetFrameworks>
+    <PlatformTarget>anycpu</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>nanoFramework.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>nanoFramework.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <PackageOutputPath>../</PackageOutputPath>
+    <PackageId>nanoFramework.Targeting.Tooling</PackageId>
+    <Authors>nanoframework</Authors>
+    <Product>.NET nanoFramework library for target-related tools (.NET)</Product>
+    <Copyright>Copyright (c) .NET Foundation and Contributors</Copyright>
+    <RepositoryType>git</RepositoryType>
+    <PackageIcon>images\nf-logo.png</PackageIcon>
+    <RepositoryUrl>https://github.com/nanoframework/nf-Visual-Studio-extension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/nanoframework/nf-Visual-Studio-extension</PackageProjectUrl>
+    <Description>This .NET library provides functionality for project-based tools that assist matching .NET nanoFramework applications with suitable firmware and .NET nanoFramework devices as deployment target.</Description>
+    <PackageTags>nanoFramework;C#;csharp;netmf;netnf;nanoframework;iot</PackageTags>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageIcon>nf-logo.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Deterministic>true</Deterministic>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+	<EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+  </PropertyGroup>
+  
+  <ItemGroup>
+	<None Include="..\..\assets\nf-logo.png">
+		<Link>assets\nf-logo.png</Link>
+		<Pack>True</Pack>
+		<PackagePath></PackagePath>
+	</None>
+	<None Include="..\..\LICENSE">
+		<Link>assets\LICENSE</Link>
+		<Pack>True</Pack>
+		<PackagePath></PackagePath>
+	</None>
+	<None Include="..\..\README.md">
+		<Link>assets\README.md</Link>
+		<Pack>True</Pack>
+		<PackagePath></PackagePath>
+	</None>
+  </ItemGroup>
+  <ItemGroup>
+		<PackageReference Include="Nerdbank.GitVersioning" Version="3.6.143">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+     <PackageReference Include="CliWrap" Version="3.6.6" />
+     <PackageReference Include="ICSharpCode.Decompiler" Version="8.2.0.7535" />
+     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+     <PackageReference Include="System.IO.Compression" Version="4.3.0" />
+  </ItemGroup>
+</Project>

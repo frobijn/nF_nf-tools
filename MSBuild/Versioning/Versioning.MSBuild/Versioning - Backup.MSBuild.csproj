@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net472</TargetFrameworks>
+    <PlatformTarget>anycpu</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>nanoFramework.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>nanoFramework.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>nanoframework</Authors>
+    <Product>.NET nanoFramework MSBuild support for target-related tools (.NET)</Product>
+    <Copyright>Copyright (c) .NET Foundation and Contributors</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="Nerdbank.GitVersioning" Version="3.6.143">
+		<PrivateAssets>all</PrivateAssets>
+		<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	</PackageReference>
+  </ItemGroup>
+</Project>
